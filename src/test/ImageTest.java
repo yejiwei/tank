@@ -1,13 +1,14 @@
 package test;
 
-/**
- * @author ：
- * @date ：Created in 2019/11/26 10:28 下午
- * @description：
- * @modified By：
- * @version: $
- */
-public class ImageTest {
+import static org.junit.jupiter.api.Assertions.*;
 
+import org.junit.jupiter.api.Test;
+
+class ImageTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
 
 }
